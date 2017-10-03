@@ -1,0 +1,5 @@
+bin*
+.vs*
+grav_grapplers.opensdf
+grav_grapplers.sdf
+grav_grapplers.VC.db
